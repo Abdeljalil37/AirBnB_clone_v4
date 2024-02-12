@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Starts a Flash Web Application 
+Starts a Flash Web Application
 """
 from flask import Flask, render_template, url_for
 from models import storage
